@@ -1,2 +1,1 @@
-# Mago
-About me
+# About me
